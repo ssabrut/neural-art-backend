@@ -77,7 +77,7 @@ WSGI_APPLICATION = "neuralartrest.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "neural-art",
+        "NAME": "neural_art",
         "USER": "root",
         "PASSWORD": "",
         "HOST": "localhost",
